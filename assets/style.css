@@ -1,0 +1,30 @@
+.centered-text {
+  text-align: center;
+}
+
+nav {
+  background: #1b2845;
+  padding: 24px;
+}
+
+nav a {
+  color: white;
+}
+
+img {
+  border-radius: 175px;
+  width: 200px;
+}
+
+.centered-page {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 48px;
+}
+
+.portfolio-page {
+  display: flex;
+  justify-content: center;
+  align-items: end;
+}
