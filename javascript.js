@@ -1,3 +1,4 @@
+
 const form = document.getElementById("form")
 const submitButton = document.getElementById("submit")
 const scriptURL = 'https://httpbin.org/post'
@@ -19,3 +20,4 @@ form.addEventListener('submit', e => {
     }
     )
 })
+
